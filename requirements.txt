@@ -1,0 +1,5 @@
+notion==0.0.28
+DateTime==4.3
+python-decouple==3.3
+tqdm==4.46.1
+
